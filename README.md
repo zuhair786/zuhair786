@@ -7,6 +7,8 @@
 ### Recently, got interest in WEB3.0 and going through it.
 ### That's it,don't waste your time by writing larger paragraphs(Although I had told all about me😄😄)
 
+### I am also 🌱python programmer and 🔭currently involve in aws lambda functions.
+
 <!--
 **zuhair786/zuhair786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
