@@ -2,8 +2,8 @@
 ![Cover](cover.jpg)
 
 ### Myself Mohamed Zuhair,
-#### Software Engineer
-#### Azure Certified | Snowflake Certified | Solved more than 400 problems in Skillrack, 200 problems in LeetCode.
+#### Senior Software Engineer
+#### Azure Certified | AWS Certified | Snowflake Certified | Solved more than 400 problems in Skillrack, 580 problems in LeetCode.
 #### Having working professional experience on cloud services AWS, Azure and data lakehouse like Snowflake.
 #### Proficient in Python, Scala and Java languages in developing complex system designs.
 #### That's it,don't waste your time by writing larger paragraphs(Although I had told all about me😄😄)
